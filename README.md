@@ -2,6 +2,8 @@
 
 AI-powered insurance premium prediction and risk classification using Machine Learning.
 
+🔗 **Live Demo:** [smart-insurance-risk-predictor.vercel.app](https://smart-insurance-risk-predictor.vercel.app/)
+
 ## Project Structure
 
 ```
