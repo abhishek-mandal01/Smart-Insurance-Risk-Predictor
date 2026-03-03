@@ -450,7 +450,7 @@ export default function App() {
                     <div className="result-icon">💰</div>
                     <div className="result-label">Predicted Premium</div>
                     <div className="result-value premium">
-                      ₹{' '}
+                      ${' '}
                       {result['Predicted Premium'].toLocaleString('en-IN', {
                         minimumFractionDigits: 2,
                         maximumFractionDigits: 2,
